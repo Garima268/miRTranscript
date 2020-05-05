@@ -37,7 +37,7 @@ For example
 Before running make sure that the input fasta file headers do not have spaces in them. Please remove spaces in headers from file
 
 Usage:
-python miRTranscript.py [options] ESTfastafile 
+python miRTranscript.py [options] Assembled_transcriptome_fasta 
 Options:
 -p int Specify Number of threads to be used for Blast 
 
