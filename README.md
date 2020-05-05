@@ -1,6 +1,5 @@
 # miRTranscript
 
-<h2>miRDetect</h2>
 <pre>
 miRTranscript is an open source python implementation made available under the GNU General Public License. It requires Python3 or above for smooth running. The software screens novel precursor sequences from transcriptome datasets<br> of plants. There is a huge inflow of data in terms of genomics and molecular biology. There are several softwares for screening miRNA from small RNA-seq data. However, there is a scarcity of working softwares for screening miRNA from transcriptome data. Moreover the ones available are mostly based on homology. Here, we present an ML-based system with Random Forest algorithm named miRTranscript for the computational prediction of miRNA from plant transcriptome datasets. 
 
